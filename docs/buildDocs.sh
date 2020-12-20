@@ -89,7 +89,7 @@ for current_version in ${versions}; do
 done
  
 # return to master branch
-git checkout master
+git checkout stable
  
 #######################
 # Update GitHub Pages #
