@@ -104,7 +104,10 @@ pushd "${docroot}"
 git init
 git remote add deploy "https://token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 git checkout -b gh-pages
- 
+
+# Add CNAME - this is required for GitHub to know what our custom domain is
+echo "docs.trabdlkarim.com" > CNAME
+
 # add .nojekyll to the root so that github won't 404 on content added to dirs
 # that start with an underscore (_), such as our "_content" dir..
 touch .nojekyll
@@ -136,11 +139,6 @@ For more information on how this documentation is built using Sphinx, Read the D
  
  * https://tech.michaelaltfield.net/2020/07/18/sphinx-rtd-github-pages-1
 EOF
- 
- # Add CNAME  
- cat > CNAME <<EOF 
- docs.trabdlkarim.com 
- EOF
  
 # copy the resulting html pages built from sphinx above to our new git repo
 git add .
