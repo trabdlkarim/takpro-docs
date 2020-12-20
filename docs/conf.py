@@ -19,12 +19,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'TAK Projects Docs'
+project = 'TAK PI Documentation'
 copyright = '2020, Toure A. Karim'
 author = 'Toure A. Karim'
 
 # The short X.Y version
-version = ''
+version = '1.0'
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
@@ -154,8 +154,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'TAKProjectDoc', 'helloWorld Documentation',
-     author, 'helloWorld', 'One line description of project.',
+    (master_doc, 'TAKProjectDoc', 'TAK Projects Documentation',
+     author, 'TAKPI', 'One line description of project.',
      'Miscellaneous'),
 ]
 
