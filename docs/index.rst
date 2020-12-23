@@ -15,7 +15,7 @@ These manuals contain overall information about how TAK Projects are developed. 
 
 .. toctree::
    :maxdepth: 2
-   :caption: About TAK PI
+   :caption: Quick Reference
    :glob:
 
    intro*
