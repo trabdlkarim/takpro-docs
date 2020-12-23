@@ -1,5 +1,5 @@
-Get Started
-===========
+Get Started Guide
+=================
 
 At the command line:
 
