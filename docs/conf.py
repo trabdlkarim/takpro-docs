@@ -43,7 +43,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'TAK Project Index'
-copyright = u'Copyright (C) 2020, Toure A. Karim and contributors'
+copyright = u'Copyright (C) 2020, Toure A. Karim & Contributors -'
 author = u'Toure A. Karim'
 
 # The version info for the project you're documenting, acts as replacement for
