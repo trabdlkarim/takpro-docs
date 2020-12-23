@@ -1,3 +1,3 @@
-# TAK Project Index Docs
+# TAK Project Index Documentation
 
-Sphinx Read the Docs Project Documentation Template
+Sphinx Read the Docs for personal projects 
