@@ -8,8 +8,8 @@ Welcome to TAK PI Docs
 
 This is the top level of the TAK PI’s technical documentation tree. TAK PI documentation, like the projects themselves, is very much a work in progress; that is especially true as we work to integrate our many scattered documents into a coherent whole. Please note that improvements to the documentation are welcome; send us a feedback if you want to help out.
 
-Introduction to TAK Project Index 
-=================================
+Getting Started with TAK Project Index 
+======================================
 
 These manuals contain overall information about how TAK Projects are developed. The TAK Projects community might be quite large, with thousands of developers contributing over the course of a year. As with any large community, knowing how things are done will make the process of getting your changes merged much easier.
 
