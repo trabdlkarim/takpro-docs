@@ -8,7 +8,7 @@ if(children.length > 0){
   var i;
   for(i=0;i<children.length;i++){
       if(children[i].nodeName == "A"){
-          footerAnchors.append(children[i]);
+          footerAnchors.push(children[i]);
       }
   }
 }
