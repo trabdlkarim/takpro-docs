@@ -1,3 +1,3 @@
-# TAK Project Index Documentation
+# TAK Projects Homepage
 
-Sphinx Read the Docs for personal projects 
+A homepage for my personal projects 
