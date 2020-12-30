@@ -1,5 +1,5 @@
 
-# Hello, Welcome!
+# Hello, welcome!
 
 <p class="message">Hey there! I am <strong>Toure Abdoul Karim</strong>, a Computer Engineer &  Tech Enthusiast. Welcome to my personal project pages.</p>
 
@@ -14,7 +14,7 @@ This site is a homepage for Toure A. Karim's personal project pages. You will fi
 
 The TAK Projects are mainly a collection of Python development projects that are independently developed by Toure A. Karim. TAK PI is a community-driven organization with the goal to maintain and improve those projects.
 
-<i class="fa fa-hand-right" aria-hidden="true"></i> Find out more by visiting [About TAK PI](https://devlabs.trabdlkarim.com/about/)
+<i class="fa fa-hand-o-right"></i> Find out more by visiting [About TAK PI](https://devlabs.trabdlkarim.com/about/)
 
 ## Useful TAK PI Resources
 
@@ -23,7 +23,7 @@ The TAK Projects are mainly a collection of Python development projects that are
 - [New Project Releases](https://devlabs.trabdlkarim.com/projects/new-releases/)
 - [New Projects](https://devlabs.trabdlkarim.com/#-recent-projects)
 
-# <i class="fa fa-info" aria-hidden="true"></i> Additional Information
+# Additional Information
 
 Have questions or suggestions ? Feel free to contact me using one the means below or [send me an email](mailto:contact@trabdlkarim.com).
 
