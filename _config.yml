@@ -4,10 +4,10 @@
 permalink:           /:title/
 
 # Setup
-title:               TAK Project Pages
-tagline:             'Simple Personal Project Pages'
-description:         'This is a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important personal software development projects.'
-url:                 https://projects.trabdlkarim.com
+title:               Toure A. Karim
+tagline:             'Project Pages'
+description:         'This is a homepage for <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> personal project pages.'
+url:                 https://gh.trabdlkarim.com
 baseurl:             /
 paginate:            5
 excerpt_separator: <!--more-->
