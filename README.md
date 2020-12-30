@@ -1,5 +1,5 @@
 
-# Welcome 
+# Welcome to TAK 3P
 
 <p class="message">Hey there! I am <strong>Toure Abdoul Karim</strong>, a Computer Engineer &  Tech Enthusiast. Welcome to my personal project pages.</p>
 
@@ -16,14 +16,14 @@ The TAK Projects are mainly a collection of Python development projects that are
 
 <i class="fa fa-hand-o-right" aria-hidden="true"></i> Find out more by visiting [About TAK PI](https://devlabs.trabdlkarim.com/about/)
 
-## Useful TAK PI Resources
+## <i class="fa fa-link" aria-hidden="true"></i> Useful TAK PI Resources
 
 - [Code Snippets](https://devlabs.trabdlkarim.com/snippets/)
 - [Project Summaries](https://devlabs.trabdlkarim.com/projects/summaries/)
 - [New Project Releases](https://devlabs.trabdlkarim.com/projects/new-releases/)
 - [New Projects](https://devlabs.trabdlkarim.com/#-recent-projects)
 
-# Additional Information
+# <i class="fa fa-info" aria-hidden="true"></i> Additional Information
 
 Have questions or suggestions ? Feel free to contact me using one the means below or [send me an email](mailto:contact@trabdlkarim.com).
 
@@ -34,4 +34,4 @@ Some additional information for those who want to contact me directly:
 * Linkedin: <https://www.linkedin.com/in/trabdlkarim/>
 * Phone: +90 534 850 6190
 
-Thanks for reading!
+Thanks for reading <i class="fa fa-heart" aria-hidden="true"></i> <i class="fa fa-heart" aria-hidden="true"></i> <i class="fa fa-hand-o-right" aria-hidden="true"></i>!!!
