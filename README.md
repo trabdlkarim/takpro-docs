@@ -1,8 +1,10 @@
+
+<p class="message">Hey there! I'm <strong>TOURE Abdoul Karim</strong>, a Computer Engineer &  Tech Enthusiast.</p>
+
 # TAK Personal Project Pages
 
-<p class="message">
-  Hey there! I'm TOURE Abdoul Karim, a Computer Engineer &  Tech Enthusiast. This site is a homepage for my personal project pages. You will find here information about my project stack or index of personal projects that lists some of my most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on <a href="https://devlabs.trabdlkarim.com/projects/browse/">browsing all the projects</a>!
-</p>
+This site is a homepage for Toure A. Karim personal project pages. You will find here information about a project stack or index of personal projects that lists some of most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on 
+<a href="https://devlabs.trabdlkarim.com/projects/browse/">browsing all the projects</a>!
 
 #  About TAK Project Index (TAK PI)
 
