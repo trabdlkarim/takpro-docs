@@ -32,6 +32,5 @@ Some additional information for those who want to contact me directly:
 * Email address: <contact@trabdlkarim.com>
 * Twitter : <https://twitter.com/trabdlkarim>
 * Linkedin: <https://www.linkedin.com/in/trabdlkarim/>
-* Phone: +90 534 850 6190
 
 Thanks for reading <i class="fa fa-heart" aria-hidden="true"></i> <i class="fa fa-heart" aria-hidden="true"></i> <i class="fa fa-heart" aria-hidden="true"></i>!!!
