@@ -3,7 +3,7 @@
 
 # TAK Personal Project Pages
 
-This site is a homepage for Toure A. Karim personal project pages. You will find here information about a project stack or index of personal projects that lists some of most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on 
+This site is a homepage for Toure A. Karim's personal project pages. You will find here information about a project stack or index of personal projects that lists some of most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on 
 <a href="https://devlabs.trabdlkarim.com/projects/browse/">browsing all the projects</a>!
 
 #  About TAK Project Index (TAK PI)
@@ -14,6 +14,12 @@ The TAK Projects are mainly a collection of Python development projects that are
 
 <i class="fa fa-hand-o-right" aria-hidden="true"></i> Find out more by visiting [About TAK PI](https://devlabs.trabdlkarim.com/about/)
 
+## Useful Resources
+
+- [Code Snippets](https://devlabs.trabdlkarim.com/snippets/)
+- [Project Summaries](https://devlabs.trabdlkarim.com/projects/summaries/)
+- [New Project Releases](https://devlabs.trabdlkarim.com/projects/new-releases/)
+- [New Projects](https://devlabs.trabdlkarim.com/#-recent-projects)
 
 # Additional Information
 
