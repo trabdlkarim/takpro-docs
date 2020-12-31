@@ -1,4 +1,4 @@
-# TAK Project Pages
+# :sparkles: TAK Project Pages :sparkles:
 
 ## Simple Personal Project Pages 
 
