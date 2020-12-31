@@ -1,16 +1,16 @@
 
-# Hello, Welcome to TAK Project Pages!
+# Hello, Welcome!
 
-<p class="message">Hey there! I am <strong>Toure Abdoul Karim</strong>, a Computer Engineer &  Tech Enthusiast. Welcome to my personal project pages.</p>
+<p class="message">Hey there! I am <strong>Toure Abdoul Karim</strong>, a Computer Engineer &  Tech Enthusiast. Welcome to TAK Project Pages, my personal project pages.</p>
 
-# TAK Personal Project Pages
+# TAK Project Pages
 
 This site is a homepage for Toure A. Karim's personal project pages. You will find here information about a project stack or index of personal projects that lists some of most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on 
 <a href="https://devlabs.trabdlkarim.com/projects/browse/">browsing all the projects</a>!
 
-#  About TAK Project Index (TAK PI)
+#  About TAK PI
 
-[**TAK PI**](https://devlabs.trabdlkarim.com/) is just a simple hub for some of [@trabdlkarim](https://github.com/trabdlkarim) most important software development projects. You can think of it as a personal development lab with various projects that you could customize for your own use upon downloading. It is a collection of projects and references to help you download and share software packages. TAK Project Index is a core set of various types of personal software projects.
+[**TAK Project Index (TAK PI)**](https://devlabs.trabdlkarim.com/) is just a simple hub for some of [@trabdlkarim](https://github.com/trabdlkarim) most important software development projects. You can think of it as a personal development lab with various projects that you could customize for your own use upon downloading. It is a collection of projects and references to help you download and share software packages. TAK Project Index is a core set of various types of personal software projects.
 
 The TAK Projects are mainly a collection of Python development projects that are independently developed by Toure A. Karim. TAK PI is a community-driven organization with the goal to maintain and improve those projects.
 
